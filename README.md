@@ -1,2 +1,2 @@
-This is Xiaoyuan Yang's website: https://ianyang0106.github.io/xiaoyuanyang.github.io/ based on Jon Barron's: https://github.com/jonbarron/jonbarron_website
+This is \href{https://ianyang0106.github.io/xiaoyuanyang.github.io/}{\textcolor{blue}{Xiaoyuan Yang's website}} based on \href{https://github.com/jonbarron/jonbarron_website}{\textcolor{blue}{Jon Barron's}}
 
